@@ -36,3 +36,9 @@ The dataset contains historical marketing spend and sales data across multiple c
 | Which channel has the best ROI? | Channel spend columns, sales |
 | Is marketing spend saturated? | Channel spend columns, sales, date |
 
+## Data Assumptions & Expectations
+- Date represents the reporting period for both sales and marketing spend.
+- Sales values are expected to be non-negative.
+- Marketing spend values may be zero during periods without active campaigns.
+- Data is assumed to be aggregated at a daily or weekly level.
+
