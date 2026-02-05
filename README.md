@@ -27,3 +27,12 @@ The dataset contains historical marketing spend and sales data across multiple c
 | search_spend | Marketing spend on search advertising |
 | social_spend | Marketing spend on social media advertising |
 | sales | Total revenue generated |
+
+## Mapping Business Questions to Data
+
+| Business Question | Relevant Columns |
+|------------------|------------------|
+| Which channel drives the most revenue? | tv_spend, digital_spend, search_spend, social_spend, sales |
+| Which channel has the best ROI? | Channel spend columns, sales |
+| Is marketing spend saturated? | Channel spend columns, sales, date |
+
