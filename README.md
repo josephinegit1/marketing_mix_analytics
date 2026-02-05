@@ -13,3 +13,17 @@ The organization invests marketing budgets across multiple channels, including T
 - Evidence-based insights into spend efficiency and saturation  
 - Interactive dashboards to support executive decision-making  
 - Actionable recommendations for marketing budget optimization
+
+## Dataset Overview
+The dataset contains historical marketing spend and sales data across multiple channels over time.
+
+## Data Dictionary
+
+| Column Name | Description |
+|------------|-------------|
+| date | Date of the observation |
+| tv_spend | Marketing spend on TV advertising |
+| digital_spend | Marketing spend on digital channels |
+| search_spend | Marketing spend on search advertising |
+| social_spend | Marketing spend on social media advertising |
+| sales | Total revenue generated |
